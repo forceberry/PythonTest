@@ -2,7 +2,7 @@
 
 The first argument is the name of the source file containing numbers
 The second argument is the action (sum/avg/median)
-The third argument is an optional comparative optional
+The third argument is an optional comparative operation
 The fourth argument is a numerical value to be used in the comparison
 The results are displayed in Finnish"""
 import sys
